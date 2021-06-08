@@ -82,7 +82,7 @@ html{
 #home::before{ 
     content: "";
     position: absolute;
-    background: url('cover2.jpg') no-repeat center center/cover;
+    background: url('cover2.jpg') no-repeat center;
     height: 642px;
     top:0px;
     left:0px;
@@ -136,7 +136,7 @@ html{
 #client-section::before{
  content: "";
  position: absolute;
- background: url('../service\ background.jpg');
+ background: url('background.jpg');
  width: 100%;
  height: 100%;
  z-index: -1;
